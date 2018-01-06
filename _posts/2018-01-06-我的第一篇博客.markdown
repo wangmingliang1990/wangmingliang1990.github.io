@@ -1,1 +1,6 @@
-first blood!
+---
+layout:post
+title:我的第一篇博客
+categories：tools
+---
+hello，world！
