@@ -1,1 +1,5 @@
-陈瑞娇是我老婆！hello world!
+hello world!
+python key words:
+def break continue pass class 
+python self attr:
+__init__ __main__
